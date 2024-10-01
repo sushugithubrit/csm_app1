@@ -1,7 +1,7 @@
 class Project
 {
-public statis void main(string args[])
+public Static void main(String args[])
 {
-system.out.println("jenkins project");
+System.out.println("jenkins Project");
 }
 }
